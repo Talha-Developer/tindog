@@ -137,11 +137,11 @@ font-weight: 700;
 /* footer */
 #footer{
 
-
+}
 .social-icon{margin:4px;}
 @media (max-width:1000px) {
   #title{text-align: center;}
   .title-image{position: static;
   transform: rotate(0); width: 60%}
 
-}
+
